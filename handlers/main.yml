@@ -5,4 +5,3 @@
   
 - name: Restart ossec
   service: name=ossec-hids state=restarted
- 
